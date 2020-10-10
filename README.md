@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/603b916b-9cfd-4241-a9ad-c15610d1b324/deploy-status)](https://app.netlify.com/sites/js-games-ccdd/deploys)
+
 # Learn JavaScript by Building 7 Games
 
 [Watch](https://www.youtube.com/watch?v=lhNdUVh3qCc)

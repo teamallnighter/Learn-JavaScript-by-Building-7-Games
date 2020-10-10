@@ -4,14 +4,20 @@
   <meta charset="UTF-8">
   <title>Memory Game</title>
   <link rel="stylesheet" href="style.css"></link>
+  <link rel="stylesheet" href="../../assets/css/normalize.css"></link>  
+  <link rel="stylesheet" href="../../assets/css/skeleton.css"></link>  
   <script src="app.js" charset="utf-8"></script>
 </head>
 <body>
-
-  <h3>Score:<span id="result"></span></h3>
-
-  <div class="grid">
-  </div>
-
+<main>
+  <section>
+    <div class="container game-container">
+      <h3>Score:<span id="result"></span></h3>
+      <div class="game-wrapper">
+        <div class="grid game" id="memory-game">
+        </div>
+      </div>
+    </section>
+  </main>
 </body>
 </html>
